@@ -2,5 +2,4 @@
 
 fname = "shumain"
 lname = "fatima"
-
 puts fname + " " + lname
